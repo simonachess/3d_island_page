@@ -20,6 +20,8 @@ const renderContent = {
             Hi, I am <span className='font-semibold'>Simona</span>👋
             <br />
             Frontend developer
+            <br />
+            <span className='text-sm italic'>-- explore my island and find out more about me! --</span>
         </h1>
     ),
     2: (
